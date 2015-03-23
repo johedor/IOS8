@@ -14,6 +14,7 @@
 		463B20F31ABFFDA3001D1425 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 463B20F21ABFFDA3001D1425 /* Images.xcassets */; };
 		463B20F61ABFFDA3001D1425 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 463B20F41ABFFDA3001D1425 /* LaunchScreen.xib */; };
 		463B21021ABFFDA3001D1425 /* T1E1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 463B21011ABFFDA3001D1425 /* T1E1Tests.swift */; };
+		463B210C1ABFFEDF001D1425 /* NewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 463B210B1ABFFEDF001D1425 /* NewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		463B20FB1ABFFDA3001D1425 /* T1E1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = T1E1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		463B21001ABFFDA3001D1425 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		463B21011ABFFDA3001D1425 /* T1E1Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = T1E1Tests.swift; sourceTree = "<group>"; };
+		463B210B1ABFFEDF001D1425 /* NewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				463B20F41ABFFDA3001D1425 /* LaunchScreen.xib */,
 				463B20EA1ABFFDA3001D1425 /* T1E1.xcdatamodeld */,
 				463B20E61ABFFDA3001D1425 /* Supporting Files */,
+				463B210B1ABFFEDF001D1425 /* NewController.swift */,
 			);
 			path = T1E1;
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				463B210C1ABFFEDF001D1425 /* NewController.swift in Sources */,
 				463B20EE1ABFFDA3001D1425 /* ViewController.swift in Sources */,
 				463B20EC1ABFFDA3001D1425 /* T1E1.xcdatamodeld in Sources */,
 				463B20E91ABFFDA3001D1425 /* AppDelegate.swift in Sources */,
